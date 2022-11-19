@@ -39,7 +39,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## Você pode acessar o projeto online através do link abaixo:
 
-https://https://desafio-nlw-eta.vercel.app/
+https://gabrells.github.io/desafio-NLW/
 
 ## :memo: Licença
 
